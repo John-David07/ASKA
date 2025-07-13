@@ -1,0 +1,189 @@
+<Object>
+  <Int name="chr">0</Int>
+  <Int name="preset">0</Int>
+  <Bool name="clrPch">True</Bool>
+  <Array name="preset_0">
+    <Object>
+      <Int name="hairId">2</Int>
+      <Int name="fhairId">8</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">1</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+  </Array>
+  <Array name="preset_1">
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+    <Object>
+      <Int name="hairId">0</Int>
+      <Int name="fhairId">0</Int>
+      <Float name="scolor">-1</Float>
+      <Float name="hcolor">0</Float>
+      <Float name="tcolor">0</Float>
+      <Int name="irisId">0</Int>
+      <Int name="tattooId">0</Int>
+    </Object>
+  </Array>
+</Object>
