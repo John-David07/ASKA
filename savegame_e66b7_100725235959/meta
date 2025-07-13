@@ -2,6 +2,6 @@
   <UInt name="version">24</UInt>
   <String name="session Name">Ragnarok</String>
   <Bool name="is session Owner">True</Bool>
-  <String name="lastSaved">130725174634</String>
+  <String name="lastSaved">130725180254</String>
   <Bool name="saveOk">True</Bool>
 </Object>
