@@ -4,10 +4,10 @@
   <Bool name="clrPch">True</Bool>
   <Array name="preset_0">
     <Object>
-      <Int name="hairId">2</Int>
+      <Int name="hairId">0</Int>
       <Int name="fhairId">8</Int>
       <Float name="scolor">-1</Float>
-      <Float name="hcolor">0</Float>
+      <Float name="hcolor">11</Float>
       <Float name="tcolor">0</Float>
       <Int name="irisId">0</Int>
       <Int name="tattooId">1</Int>
