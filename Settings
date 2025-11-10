@@ -44,7 +44,10 @@
   <Int name="EnemyClr">-16769793</Int>
   <Int name="FrClr">-16711907</Int>
   <Int name="NtrClr">-1836033</Int>
+  <Int name="sFillClr">-1835111</Int>
   <Bool name="AutoEq">True</Bool>
   <Bool name="NoBotheringVillagers">False</Bool>
   <Int name="HUDFilter">-1</Int>
+  <Float name="HUDScale">1</Float>
+  <Float name="SelectionSaturation">0.5</Float>
 </Object>

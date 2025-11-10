@@ -4,7 +4,7 @@
   <Bool name="clrPch">True</Bool>
   <Array name="preset_0">
     <Object>
-      <Int name="hairId">0</Int>
+      <Int name="hairId">3</Int>
       <Int name="fhairId">8</Int>
       <Float name="scolor">-1</Float>
       <Float name="hcolor">11</Float>
