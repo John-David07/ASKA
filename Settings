@@ -17,9 +17,9 @@
   <Float name="GrassRD">0.1</Float>
   <Bool name="ContactShd">False</Bool>
   <Bool name="MicroShd">False</Bool>
-  <Float name="DynamicResScale">50</Float>
-  <UInt name="ResFilterQuality">5</UInt>
-  <Int name="DynamicResFilter">1</Int>
+  <Float name="DynamicResScale">100</Float>
+  <UInt name="ResFilterQuality">4</UInt>
+  <Int name="DynamicResFilter2">1</Int>
   <Bool name="DynamicRes">True</Bool>
   <Int name="Region">9</Int>
   <Bool name="HideTut">False</Bool>
